@@ -12,10 +12,10 @@
     <modules>
 		<module>eye-commons</module>
         <module>eye</module>
-		<module>eye-test</module>
 		<module>eye-mono</module>
 		<module>eye-messaging</module>
 		<module>eye-consumer-for-kibana</module>
+		<module>eye-test</module>
     </modules>
     
     <build>
