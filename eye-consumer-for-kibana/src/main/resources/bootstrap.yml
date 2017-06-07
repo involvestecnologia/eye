@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+     uri: http://192.168.200.190:8888
+     label: local-marcelo
